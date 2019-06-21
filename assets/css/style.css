@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffffff;
+    border-bottom: solid;
+    border-width: 2px;
+    border-color: #dddddd;
+    width: 100%;
+}
+
+nav {
+    width: 100%;
+    overflow: auto;
+    display: block;
+}
+
+.logo {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    width: 960px;
+    margin: auto;
+}
+
+.profile {
+    height: auto;
+    width: auto;
+    max-width: 300px;
+    max-height: 300px;
+    overflow: auto;
+}
+
+.nav,
+.nav2 {
+    list-style: none;
+}
+
+.nav {
+    float: left;
+}
+
+.nav2 {
+    float: right;
+}
+
+.about,
+.port,
+.contact {
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 20px 0px 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #444839;
+}
+
+#main {
+    clear: both;
+    overflow: auto;
+}
+
+article {
+    margin: 30px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    width: 940px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+}
+
+h2 {
+    color: #4aaaa5;
+    padding-bottom: 20px;
+    border-bottom: solid;
+    border-width: 3px;
+    border-color: #cccccc;
+
+}
+
+.profile {
+    float: left;
+    margin: 20px;
+}
+
+p {
+    margin: 10px;
+    color: #444839;
+}
+
+#copyright {
+    color: #ffffff;
+}
+
+footer {
+    text-align: center;
+    background-color:#666666;
+    color: #ffffff;
+    padding: 20px;
+    margin: auto 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-top: solid;
+    border-width: 5px;
+    border-color: #4aaaa5;
+}
+
+#form {
+    margin: 20px 150px 20px 150px;
+    background: #ffffff;
+    padding: 20px; 
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+}
+
+.boxes {
+    padding: 10px;
+}
+
+input,
+textarea {
+    width: 100%;
+}
+
+#folio {
+    margin: 20px 150px 20px 150px;
+    background: #ffffff;
+    padding: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+}
+
+#hangman,
+#RPG,
+#trivia,
+#ruders,
+#RPS {
+    padding: 10px;
+}
