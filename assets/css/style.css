@@ -123,6 +123,8 @@ footer {
 
 #form {
     margin: 20px 150px 20px 150px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 30px;
     background: #ffffff;
     padding: 20px; 
     width: 920px;
