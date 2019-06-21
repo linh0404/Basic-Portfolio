@@ -83,6 +83,7 @@ article {
 h2 {
     color: #4aaaa5;
     padding-bottom: 20px;
+    padding-left: 20px;
     border-bottom: solid;
     border-width: 3px;
     border-color: #cccccc;
@@ -95,7 +96,7 @@ h2 {
 }
 
 p {
-    margin: 10px;
+    margin: 20px;
     color: #444839;
 }
 
